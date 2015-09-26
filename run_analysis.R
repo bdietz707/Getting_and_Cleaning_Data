@@ -1,3 +1,6 @@
+#Getting and Cleaning Data Course Project
+#Brad Dietz
+
 filename <- "getdata_dataset.zip" 
 
 #Download the dataset if it does not exist
